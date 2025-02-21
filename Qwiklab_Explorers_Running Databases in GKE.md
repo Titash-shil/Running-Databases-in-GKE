@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Working-with-Cloud-Build/refs/heads/main/qwiklab_explorers_Working%20with%20Cloud%20Build.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Running-Databases-in-GKE/refs/heads/main/qwiklab_explorers_Running%20Databases%20in%20GKE.sh
 
-sudo chmod +x qwiklab_explorers_Working%20with%20Cloud%20Build.sh
+sudo chmod +x qwiklab_explorers_Running%20Databases%20in%20GKE.sh
 
-./qwiklab_explorers_Working%20with%20Cloud%20Build.sh
+./qwiklab_explorers_Running%20Databases%20in%20GKE.sh
 ```
 ---
 
